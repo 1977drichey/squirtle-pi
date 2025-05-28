@@ -1,4 +1,4 @@
-zename: Build Squirtle Pi Image
+name: Build Squirtle Pi Image
 
 on:
   push:
